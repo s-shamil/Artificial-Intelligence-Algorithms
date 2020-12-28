@@ -1,0 +1,13 @@
+Computer vs Computer autoplay stat:
+
+Heuristic 1 vs 2-> 0:100
+
+Heuristic 1 vs 3-> 0:100
+
+Heuristic 1 vs 4-> 0:100
+
+Heuristic 2 vs 3-> 48:52
+
+Heuristic 2 vs 4-> 50:50
+
+Heuristic 3 vs 4-> 48:52
